@@ -1,5 +1,5 @@
 build:
-	gcc -o main main.c function.c brain.c 
+	gcc -o main main.c 
 
 run:
 	./main
