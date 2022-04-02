@@ -7,3 +7,6 @@ M1_ATM
 [![Code Quality - Cppcheck](https://github.com/Bhargavi239/M1_ATM/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bhargavi239/M1_ATM/actions/workflows/c-cpp.yml)
 
 [![Analysis](https://github.com/Bhargavi239/M1_ATM/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Bhargavi239/M1_ATM/actions/workflows/Analysis.yml)
+
+
+[![Build_CI - Linux](https://github.com/Bhargavi239/M1_ATM/actions/workflows/Linux.yml/badge.svg)](https://github.com/Bhargavi239/M1_ATM/actions/workflows/Linux.yml)
