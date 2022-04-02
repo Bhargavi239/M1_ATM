@@ -10,3 +10,6 @@ M1_ATM
 
 
 [![Build_CI - Linux](https://github.com/Bhargavi239/M1_ATM/actions/workflows/Linux.yml/badge.svg)](https://github.com/Bhargavi239/M1_ATM/actions/workflows/Linux.yml)
+
+
+[![Bulid CI - windows](https://github.com/Bhargavi239/M1_ATM/actions/workflows/windows.yml/badge.svg)](https://github.com/Bhargavi239/M1_ATM/actions/workflows/windows.yml)
