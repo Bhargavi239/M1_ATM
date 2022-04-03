@@ -1,1 +1,4 @@
-#  M1_ATM
+This is a C Programming ATM banking project. This project contains some of the topics of C programming like while loop,if condition's ,functions etc. At the first the user have to enter the valid pin if the user enter's the invalid pin it showes the pin invalid and enter the pin again after entering the pin choose one of the option which the option 1 condition check Blance
+Deposite
+Withdraw
+Exit If the user choose the option 1 it display's the balance that avaliable in your account and after that if you want to take another transtion it asks to press 1 for YES and press 2 for NO if the user choose the option 2 deposite it display's that how much money you want to deposite after completion of your deposite it shows the total balance in your account the when ever the user. choose option 3 cash withdraw choose the amount that the user want to with draw the transtion continues if the amount avaliable in your account is more the money you entered or else it stops the transtion. if the user choose the option 4 the opertion stopes which means exits after choosing every option it askes the user want another transtion or not.THANK YOU for banking.
