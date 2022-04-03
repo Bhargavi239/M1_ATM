@@ -11,7 +11,7 @@ jobs:
 
     runs-on: windows-latest
 
-    steps:
-    - uses: actions/checkout@v2
-    - name: make
-      run: make -C MiniProject_C/3_Implementation
+   steps:
+    - uses: actions/checkout@v3
+    - name: Bulid
+      run: make - 3_Implementation
