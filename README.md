@@ -13,3 +13,4 @@ M1_ATM
 
 
 [![Bulid CI - windows](https://github.com/Bhargavi239/M1_ATM/actions/workflows/windows.yml/badge.svg)](https://github.com/Bhargavi239/M1_ATM/actions/workflows/windows.yml)
+[![Unit Testing](https://github.com/Bhargavi239/M1_ATM/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Bhargavi239/M1_ATM/actions/workflows/unit-test.yml)
